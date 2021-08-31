@@ -10,8 +10,8 @@
 ### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt=" | LinkedIn" width="22px" src="https://img.icons8.com/color/96/000000/gmail-new.png"/>[Gmail]
+[<img align="left" alt=" | LinkedIn" width="22px" src="<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>" />][linkedin]
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://img.icons8.com/color/96/000000/gmail-new.png"/>][Gmail]
 
 <br />
 
