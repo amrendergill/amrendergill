@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr" width="22px" src="https://img.icons8.com/ios/60/000000/external-earth-space-vitaliy-gorbachev-blue-vitaly-gorbachev.png" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px"  src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://img.icons8.com/color/96/000000/gmail-new.png" />][Gmail]
 
