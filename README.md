@@ -11,6 +11,7 @@
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://img.icons8.com/color/96/000000/gmail-new.png"/>[Gmail]
 
 <br />
 
@@ -18,3 +19,4 @@
 
 [website]: https://flamboyant-montalcini-bfe6d2.netlify.app/
 [linkedin]: https://www.linkedin.com/in/amrender-singh-08b684200/
+[Gmail]: mailto:amrender028@gmail.com
